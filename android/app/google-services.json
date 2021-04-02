@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730301651385",
+    "project_id": "cakna-761c9",
+    "storage_bucket": "cakna-761c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730301651385:android:58c1a1a7957ad43327fe68",
+        "android_client_info": {
+          "package_name": "com.example.cakna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730301651385-fbli9j46vspla7q7712bn9kapo93hhv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqG96Z1yHeFX651bdw3qBJqCRpZF1jlSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730301651385-fbli9j46vspla7q7712bn9kapo93hhv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
